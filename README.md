@@ -73,10 +73,7 @@ catalog/
 ├── testcase1.json     # Input test case 1
 └── testcase2.json     # Input test case 2
 ```
-### Output Screenshots
 
-
-![output Screenshot](Catalog/Catalog output.png)
 
 ### License
 
